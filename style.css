@@ -1,0 +1,21 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --txt-sat-blue: hsl(238, 29%, 16%);
+  --txt-red: hsl(14, 88%, 65%);
+  --txt-gr-blue-1: hsl(240, 6%, 50%);
+  --txt-gr-blue-2: hsl(237, 12%, 33%);
+  --grad-violet: hsl(273, 75%, 66%);
+  --grad-blue: hsl(240, 73%, 65%);
+  --divider: hsl(240, 5%, 91%);
+}
+
+body {
+  font-family: "Kumbh Sans", sans;
+}
